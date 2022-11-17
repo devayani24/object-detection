@@ -13,6 +13,10 @@ The model that is used for this project is darknet yolov4. This model will ident
 https://user-images.githubusercontent.com/76246283/202580942-8ffba54d-7bde-4d3a-8b46-6192c14b4429.mp4
 
 
+https://user-images.githubusercontent.com/76246283/202581298-658db9ea-0399-4515-9a4e-6ab156960525.mp4
+
+
+
 # Methodology: 
 GPU is enabled in the colab and the datrkent is cloned from AlexyAB's repository. The configuration file is fine-tuned depending upon the problem.
 ## step1:

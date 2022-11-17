@@ -8,7 +8,9 @@
 # Project Description:
 The model that is used for this project is darknet yolov4. This model will identifies the LCD, LED, Buttons in a panel. Moreover, it identifies whether the LED is blinking slow, normal or fast. The second goal is not so accurate, since it needs high end GPU to process the image data. 
 ![deva_prediction](https://user-images.githubusercontent.com/76246283/202388280-0e165479-7a3b-451e-a1e0-bc6d482edb8f.jpg)
-
+<a style="float:right" href="https://github.com/devayani24/object-detection/blob/main/results_led2.avi" target="_blank">
+  <img alt="PicSciP Demo Video" src="https://github.com/devayani24/object-detection/blob/main/deva_prediction.jpg" width="276" height="537" />
+</a>
 # Methodology: 
 GPU is enabled in the colab and the datrkent is cloned from AlexyAB's repository. The configuration file is fine-tuned depending upon the problem.
 ## step1:

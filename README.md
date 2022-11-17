@@ -9,8 +9,10 @@
 ### The model that is used for this project is darknet yolov4. This model will identifies the LCD, LED, Buttons in a panel. Moreover, it identifies whether the LED is blinking slow, normal or fast. The second goal is not so accurate, since it needs high end GPU to process the image data. 
 ![deva_prediction](https://user-images.githubusercontent.com/76246283/202388280-0e165479-7a3b-451e-a1e0-bc6d482edb8f.jpg)
 
+# Methodology: 
+GPU is enabled in the colab and the datrkent is cloned from AlexyAB's repository. The configuration file is fine-tuned depending upon the problem.
 ## step1:
-### labeling images are done in LabelImg and save them in yolo format.
+### labeling images are manually done with the use of LabelImg software and saved them in yolo format.
 ## step2:
 ### create two dataset folder namely train and validation folder.
 ### store the images to be trained and validated in their respective folders and their corresponding yolo format text files.

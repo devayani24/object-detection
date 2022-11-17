@@ -9,6 +9,10 @@
 The model that is used for this project is darknet yolov4. This model will identifies the LCD, LED, Buttons in a panel. Moreover, it identifies whether the LED is blinking slow, normal or fast. The second goal is not so accurate, since it needs high end GPU to process the image data. 
 ![deva_prediction](https://user-images.githubusercontent.com/76246283/202388280-0e165479-7a3b-451e-a1e0-bc6d482edb8f.jpg)
 
+
+https://user-images.githubusercontent.com/76246283/202580942-8ffba54d-7bde-4d3a-8b46-6192c14b4429.mp4
+
+
 # Methodology: 
 GPU is enabled in the colab and the datrkent is cloned from AlexyAB's repository. The configuration file is fine-tuned depending upon the problem.
 ## step1:

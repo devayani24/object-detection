@@ -1,8 +1,14 @@
 # Custom-object-detection:
+
 ## platform used: Google colab
 ## model -yolo version 4.
 ## dataset: custom dataset.
 ## labels: LCD, LED, Button.
+
+# Project Description:
+### The model that is used for this project is darknet yolov4. This model will identifies the LCD, LED, Buttons in a panel. Moreover, it identifies whether the LED is blinking slow, normal or fast. The second goal is not so accurate, since it needs high end GPU to process the image data. 
+![deva_prediction](https://user-images.githubusercontent.com/76246283/202388280-0e165479-7a3b-451e-a1e0-bc6d482edb8f.jpg)
+
 ## step1:
 ### labeling images are done in LabelImg and save them in yolo format.
 ## step2:
